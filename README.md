@@ -7,6 +7,8 @@
 
 Esquiva de lado a lado los ataques del dragón invencible mientras tratas de sobrevivir el mayor tiempo posible en este divertido juego del tipo Bullet Hell
 
+- Requiere la libreria Sound
+
 ## Objetivo
 
 Sobrevive esquivando todos los ataques que el dragon invencible genera
